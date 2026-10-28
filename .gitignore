@@ -1,0 +1,19 @@
+# Entornos
+.venv/
+.venv-llm/
+__pycache__/
+*.py[cod]
+
+# Salidas y material personal (voz de referencia, reels generados)
+salidas*/
+mi_voz*
+prompt.txt
+respuesta.txt
+
+# Fuentes tipográficas: las baja reel._fuente() de Google Fonts (OFL)
+fuentes/
+
+# Sistema
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

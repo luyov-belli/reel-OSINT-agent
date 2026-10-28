@@ -1,0 +1,10 @@
+# Pasos 3 a 5: voz clonada, subtítulos y video. Python 3.11 o 3.12.
+# qwen-tts fija transformers==4.57.3, por eso este entorno va aparte del de guion.py --motor mlx.
+qwen-tts
+faster-whisper
+pillow
+imageio-ffmpeg
+soundfile
+jiwer
+num2words
+pypdf

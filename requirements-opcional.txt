@@ -1,0 +1,10 @@
+# Extras opcionales, cada uno en el entorno que corresponde.
+
+# Voz de locutor con estilo por escena (hacer_reel.py --motor voxcpm)
+voxcpm
+
+# Notebook y pruebas/comparar_voces.py
+pandas
+matplotlib
+librosa
+jupyterlab
